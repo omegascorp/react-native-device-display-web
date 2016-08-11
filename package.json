@@ -1,0 +1,11 @@
+{
+  "name": "react-native-device-display-web",
+  "main": "display.js",
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkjdaniel/react-native-display-view.git"
+  },
+  "version": "0.0.1"
+}
