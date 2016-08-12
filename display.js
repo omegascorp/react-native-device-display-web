@@ -7,7 +7,7 @@ class Display {
 
   constructor() {
     this.width = window.innerWidth;
-    this.height = window.innerWidth;
+    this.height = window.innerHeight;
   }
 
   percentage(type, value) {
